@@ -19,7 +19,7 @@ const config = {
   host: 'SlxshyNationCraft.aternos.me',
   port: 38931,
   username: 'NoDiamondForYou',
-  version: '1.21.1'
+  version: '1.16.5'
 };
 
 const commands = {
